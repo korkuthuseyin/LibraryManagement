@@ -11,7 +11,7 @@ This project is a simple **Library Management System (LMS)** implemented in **C+
 - Display transaction details (borrow/return)
   
 ## Project Structure
-```bash
+```
 LibraryManagementSystem/
 │
 ├── Book.h             # Header file for the Book class
@@ -62,5 +62,5 @@ Before running this project, ensure you have the following installed:
 
 
 ### Clone this repository
-    ```bash
+    ```
     git clone https://github.com/korkuthuseyin/LibraryManagement.git
